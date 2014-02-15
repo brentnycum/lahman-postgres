@@ -24,7 +24,7 @@ Conversion of the Sean Lahman Database to PostgreSQL. All tables have been separ
  * ~~Salaries~~
  * ~~Schools~~
  * ~~SchoolsPlayers~~
- * SeriesPost
+ * ~~SeriesPost~~
  * TeamFranchises
  * Teams
  * TeamsHalf
