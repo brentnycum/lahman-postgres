@@ -19,7 +19,7 @@ Conversion of the Sean Lahman Database to PostgreSQL. All tables have been separ
  * ~~Managers~~
  * ~~ManagersHalf~~
  * ~~MASTER~~
- * Pitching
+ * ~~Pitching~~
  * PitchingPost
  * Salaries
  * Schools
