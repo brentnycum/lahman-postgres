@@ -13,7 +13,7 @@ Conversion of the Sean Lahman Database to PostgreSQL. All tables have been separ
  * ~~Batting~~
  * ~~BattingPost~~
  * ~~Fielding~~
- * FieldingOF
+ * ~~FieldingOF~~
  * FieldingPost
  * Hall of Fame
  * Managers
