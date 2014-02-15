@@ -15,7 +15,7 @@ Conversion of the Sean Lahman Database to PostgreSQL. All tables have been separ
  * ~~Fielding~~
  * ~~FieldingOF~~
  * ~~FieldingPost~~
- * Hall of Fame
+ * ~~Hall of Fame~~
  * Managers
  * ManagersHalf
  * MASTER
