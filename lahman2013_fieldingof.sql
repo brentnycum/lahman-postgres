@@ -12048,4 +12048,6 @@ INSERT INTO "FieldingOF" ("playerID", "yearID", "stint", "Glf", "Gcf", "Grf") VA
 ('zwilldu01', 1915, 1, 0, 148, 0),
 ('zwilldu01', 1916, 1, 0, 5, 4);
 
+REINDEX TABLE "FieldingOF";
+
 END TRANSACTION;
