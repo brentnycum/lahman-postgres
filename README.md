@@ -22,7 +22,7 @@ Conversion of the Sean Lahman Database to PostgreSQL. All tables have been separ
  * ~~Pitching~~
  * ~~PitchingPost~~
  * ~~Salaries~~
- * Schools
+ * ~~Schools~~
  * SchoolsPlayers
  * SeriesPost
  * TeamFranchises
