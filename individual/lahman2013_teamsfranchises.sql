@@ -1,6 +1,6 @@
 BEGIN TRANSACTION;
 
-DROP TABLE IF EXISTS "TeamsFranchises"
+DROP TABLE IF EXISTS "TeamsFranchises";
 CREATE TABLE IF NOT EXISTS "TeamsFranchises" (
   "franchID" varchar(3) NOT NULL,
   "franchName" varchar(50) DEFAULT NULL,
