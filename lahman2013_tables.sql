@@ -369,7 +369,7 @@ CREATE TABLE IF NOT EXISTS ManagersHalf (
 
 DROP TABLE IF EXISTS Master;
 CREATE TABLE IF NOT EXISTS Master (
-	lahmanID int NOT NULL,
+	lahmanID serial NOT NULL,
 	playerID varchar(10) DEFAULT NULL,
 	managerID varchar(10) DEFAULT NULL,
 	hofID varchar(10) DEFAULT NULL,
