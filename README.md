@@ -25,7 +25,7 @@ COPY FieldingPost FROM '/path/to/FieldingPost.csv' DELIMITER ',' CSV;
 COPY HallOfFame FROM '/path/to/HallOfFame.csv' DELIMITER ',' CSV;
 COPY Managers FROM '/path/to/Managers.csv' DELIMITER ',' CSV;
 COPY ManagersHalf FROM '/path/to/ManagersHalf.csv' DELIMITER ',' CSV;
-COPY Master FROM '/path/to/Master.csv' DELIMITER ',' CSV;
+COPY Master (playerID,birthYear,birthMonth,birthDay,birthCountry,birthState,birthCity,deathYear,deathMonth,deathDay,deathCountry,deathState,deathCity,nameFirst,nameLast,nameGiven,weight,height,bats,throws,debut,finalGame,retroID,bbrefID) FROM '/path/to/Master.csv' DELIMITER ',' CSV;
 COPY Pitching FROM '/path/to/Pitching.csv' DELIMITER ',' CSV;
 COPY PitchingPost FROM '/path/to/PitchingPost.csv' DELIMITER ',' CSV;
 COPY Salaries FROM '/path/to/Salaries.csv' DELIMITER ',' CSV;
